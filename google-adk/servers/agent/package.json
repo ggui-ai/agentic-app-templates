@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "@google/adk": "^1.1.0",
-    "@ggui-ai/agent-server": "^0.2.0-alpha.0",
-    "@ggui-ai/protocol": "^0.2.0-alpha.0",
+    "@ggui-ai/agent-server": "^0.2.0-alpha.1",
+    "@ggui-ai/protocol": "^0.2.0-alpha.1",
     "dotenv": "^16.4.5",
     "zod": "^3.23.0"
   },
